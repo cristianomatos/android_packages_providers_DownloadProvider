@@ -180,7 +180,7 @@ public class DownloadNotifier {
             // Show relevant icon
             if (type == TYPE_ACTIVE) {
                 if (hasErrorStatus) {
-                    builder.setSmallIcon(android.R.drawable.stat_sys_warning);
+                    builder.setSmallIcon(R.drawable.ic_stat_download_error);
                 } else {
                     builder.setSmallIcon(android.R.drawable.stat_sys_download);
                 }
