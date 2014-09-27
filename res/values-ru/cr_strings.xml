@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="kilo_bytes">К</string>
+    <string name="mega_bytes">М</string>
+    <string name="giga_bytes">Г</string>
+
+    <string name="download_stop">Стоп</string>
+    <string name="download_resume">Возобновить</string>
+    <string name="download_pause">Пауза</string>
+    <string name="download_retry">Повторить</string>
+
+    <string name="download_stop_all">Остановить все</string>
+    <string name="download_resume_all">Возобновить все</string>
+    <string name="download_pause_all">Приостановить все</string>
+    <string name="download_retry_all">Повторить все</string>
+
+</resources>
